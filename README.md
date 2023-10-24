@@ -19,11 +19,16 @@ pengembangan dalam merancang dan mengimplementasikan situs web.
 2. Lampiran
    
    A. Flowchart
-   
+
+   ![Flowchart (1)](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124551854/ac99ad84-5d38-4488-9cc7-6567f0ee9ac9)
+
+
    B. UseCase Diagram
 
+   ![Use Case](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124551854/5ad985df-b6b7-439c-843a-756b407349e8)
 
-3. Penjelasan Code
+   
+4. Penjelasan Code
    A. HTML
    
    B. CSS
