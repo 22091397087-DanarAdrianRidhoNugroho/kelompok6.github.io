@@ -437,17 +437,228 @@ CSS.header
 
 ![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124489939/682e7018-1906-4413-a6ad-de44e49683b3)
 
+CSS.about
+
+•	.about-us: Ini adalah gaya untuk elemen dengan kelas "about-us," yang mungkin mengatur tampilan keseluruhan bagian "Tentang." Ini termasuk ukuran dan jarak dari bagian tersebut.
+
+•	.about-us img: Ini adalah gaya khusus untuk elemen gambar (img) di dalam elemen "about-us." Ini mengatur lebar gambar, jarak dari sisi kiri halaman, posisi gambar (dalam hal ini, posisi statis), serta efek pembulatan sudut (border radius) yang memberikan sudut bulat pada gambar.
+
+•	.about-us h1: Ini adalah gaya untuk elemen judul (h1) di dalam elemen "about-us." Ini mengubah ukuran font judul.
+
+•	.about-us p: Ini adalah gaya untuk elemen paragraf (p) di dalam elemen "about-us." Ini mengatur tampilan teks pada bagian "Tentang," termasuk jarak paragraf pertama (indentasi), penjelasan teks (teks rata kiri dan rata kanan), serta ukuran font.
+
 
 ![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124489939/4705aef6-d9a3-4c09-9911-aacb9744b68c)
 
+CSS.services 
+
+1.)	.services-1: Ini adalah gaya untuk elemen dengan kelas "services-1." Elemen ini digunakan untuk mengatur tampilan judul atau bagian utama dari "Layanan." Gaya ini mengatur tampilan judul, termasuk ukuran font dan warna teks.
+
+2.)	.garis-kiri dan .garis-kanan: Ini adalah elemen-elemen dengan kelas "garis-kiri" dan "garis-kanan." Mereka digunakan untuk menampilkan garis horizontal yang memisahkan elemen-elemen dalam "Layanan." Garis ini mengatur tampilan garis, termasuk tinggi, lebar, warna, dan margin (jarak) di antara mereka.
+
+3.)	.fitur-manfaat: Ini adalah elemen dengan kelas "fitur-manfaat." Elemen ini digunakan untuk mengatur tampilan bagian "Fitur" dan "Manfaat" di dalam "Layanan." Ini menggunakan tata letak fleksibel dan menyusun elemen-elemen secara merata.
+
+4.)	.fitur p dan .manfaat p: Ini adalah gaya untuk elemen paragraf (p) di dalam bagian "Fitur" dan "Manfaat." Ini mengatur ukuran font, tebal, dan warna teks.
+
+5.)	.fitur ul dan .manfaat ul: Ini adalah gaya untuk elemen daftar tak terurut (ul) di dalam "Fitur" dan "Manfaat." Ini mengatur tampilan daftar, termasuk ukuran font dan jarak di bagian bawahnya.
+
+6.)	.fitur li::before dan .manfaat li::before: Ini adalah gaya untuk menambahkan tanda bintang (★) di depan setiap item daftar dalam "Fitur" dan "Manfaat." Ini mengatur tampilan tanda bintang, termasuk ukuran dan warna.
+
+7.)	.services: Ini adalah gaya untuk elemen dengan kelas "services." Elemen ini mengatur tampilan keseluruhan "Layanan," termasuk ukuran font untuk judulnya.
+
+8.)	.services ul li: Ini adalah gaya untuk elemen-elemen daftar tak terurut (li) yang berada dalam elemen "Layanan." Ini mengatur tampilan setiap elemen daftar, termasuk jarak, warna teks, dan efek border.
+
+9.)	.services ul li img: Ini adalah gaya khusus untuk gambar di dalam elemen-elemen daftar "Layanan." Ini mengatur lebar gambar, pembulatan sudut (border radius), dan jarak dari gambar.
+
+10.)	.services ul li p: Ini adalah gaya untuk paragraf teks di dalam elemen-elemen daftar "Layanan." Ini mengatur tampilan teks, termasuk jarak dan ukuran font.
+
+11.)	.services button: Ini adalah gaya untuk tombol di dalam elemen "Layanan." Ini mengatur tampilan tombol, termasuk warna latar belakang, warna teks, ukuran font, radius sudut, dan sebagainya.
+
+12.)	.services button:hover: Ini adalah gaya tambahan yang akan diterapkan ketika tombol "Layanan" disorot oleh kursor. Ini mengubah warna latar belakang tombol untuk memberikan umpan balik visual kepada pengguna.
+
+13.)	.hidden-content: Ini adalah gaya untuk elemen dengan kelas "hidden-content." Elemen ini digunakan untuk mengatur tampilan konten tersembunyi (hidden content) yang mungkin ditampilkan atau disembunyikan dengan interaksi pengguna. Gaya ini mengatur tampilan konten yang tidak terlihat secara awal dan mengubahnya menjadi tidak terlihat (display: none).
+
+
 ![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124489939/caca2be9-f065-46bd-8229-c825676bbfe5)
+
+1.)	.team: Ini adalah gaya untuk elemen dengan kelas "team." Elemen ini digunakan untuk mengatur tampilan keseluruhan dari bagian "Tim." Gaya ini menggunakan fleksbox (display: flex) untuk mengatur tata letak elemen secara berdampingan. Ini juga mengatur jarak (margin) dari elemen "Tim."
+
+2.)	.team h1: Ini adalah gaya untuk elemen judul (h1) di dalam bagian "Tim." Gaya ini mengatur tampilan judul, termasuk ukuran font dan warna teks.
+
+
+3.)	.garis-kiri dan .garis-kanan: Ini adalah elemen-elemen dengan kelas "garis-kiri" dan "garis-kanan." Mereka digunakan untuk menampilkan garis horizontal di sekitar judul "Tim." Garis ini mengatur tampilan garis, termasuk tinggi, lebar, dan warna.
+
+4.)	.foto-team: Ini adalah gaya untuk elemen dengan kelas "foto-team." Elemen ini digunakan untuk mengatur tampilan foto-foto tim yang ada di bawah judul "Tim." Ini menggunakan fleksbox (display: flex) untuk mengatur tata letak elemen secara horizontal.
+
+
+5.)	.foto-team ul: Ini adalah gaya untuk elemen daftar tak terurut (ul) di dalam elemen "foto-team." Gaya ini menghilangkan daftar tak terurut (list-style: none) dan mengatur elemen-elemen dalam daftar untuk tampilan flex dengan posisi yang diatur ke tengah (justify-content: center).
+
+6.)	.foto-team ul li: Ini adalah gaya untuk elemen-elemen daftar (li) di dalam elemen "foto-team." Ini mengatur jarak (margin) di antara elemen-elemen tersebut dan mengatur tampilan elemen secara berdampingan (display: flex).
+
+
+7.)	.foto-team ul li img: Ini adalah gaya untuk gambar (img) di dalam elemen-elemen daftar "Tim." Gaya ini mengatur lebar dan tinggi gambar, pembulatan sudut (border radius), dan pengaturan lainnya untuk memastikan tampilan gambar yang sesuai.
+
+8.)	.foto-team ul li p: Ini adalah gaya untuk elemen paragraf (p) di dalam elemen-elemen daftar "Tim." Gaya ini mengatur ukuran font untuk teks yang mendampingi gambar tim.
+
+
 
 ![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124489939/e336bbab-dece-44f3-8549-ada5d66589f7)
 
+CSS.rating
+Bagian "Rating"
+1.)	.rating: Ini adalah gaya untuk elemen dengan kelas "rating." Elemen ini digunakan untuk mengatur tampilan keseluruhan dari bagian "Rating." Gaya ini mengatur jarak (margin) di atas, kiri, dan kanan, memberikan margin atas 50px, sehingga memberikan ruang di atas elemen ini.
+
+2.)	.rating h1: Ini adalah gaya untuk elemen judul (h1) di dalam bagian "Rating." Gaya ini mengatur tampilan judul, termasuk ukuran font (40px) dan warna teks (#fff).
+
+
+3.)	.rating ul: Ini adalah gaya untuk elemen daftar tak terurut (ul) di dalam bagian "Rating." Gaya ini mengatur daftar tak terurut dengan tampilan fleks (display: flex) untuk mengatur elemen-elemen daftar secara horizontal. Properti justify-content dan align-items digunakan untuk mengatur tata letak elemen-elemen dalam daftar.
+
+4.)	.rating li: Ini adalah gaya untuk elemen-elemen daftar (li) di dalam elemen "Rating." Gaya ini menghilangkan tanda bullet dari daftar tak terurut (list-style: none) dan mengatur teks elemen-elemen tersebut di tengah (text-align: center).
+
+
+5.)	.rating li h2 dan .rating li h3: Ini adalah gaya untuk elemen judul (h2 dan h3) di dalam elemen-elemen daftar "Rating." Gaya ini mengatur ukuran font judul, dan h3 memiliki batas (border) dengan lebar 70px dan tampilan garis putih solid.
+
+6.)	.rating li p: Ini adalah gaya untuk elemen paragraf (p) di dalam elemen-elemen daftar "Rating." Gaya ini mengatur ukuran font paragraf dan warna teks.
+
+
+Bagian "Ulasan"
+
+1.)	.ulasan: Ini adalah gaya untuk elemen dengan kelas "ulasan." Elemen ini mengatur tampilan keseluruhan dari bagian "Ulasan," termasuk margin di sekitarnya.
+
+2.)	.ulasan ul: Ini adalah gaya untuk elemen daftar tak terurut (ul) di dalam bagian "Ulasan." Gaya ini mengatur margin kiri (margin-left: 100px) dan mengatur tampilan daftar tak terurut dengan posisi inline-block.
+
+
+3.)	.ulasan ul li: Ini adalah gaya untuk elemen-elemen daftar (li) di dalam elemen "Ulasan." Gaya ini mengatur lebar elemen-elemen daftar menjadi 500px.
+
+4.)	.ulasan ul li .star: Ini adalah gaya untuk elemen bintang (span dengan kelas "star") di dalam elemen-elemen daftar "Ulasan." Gaya ini mengatur warna bintang menjadi gold dan ukuran fontnya.
+
+
+5.)	.ulasan ul li p: Ini adalah gaya untuk elemen paragraf (p) di dalam elemen-elemen daftar "Ulasan." Gaya ini mengatur ukuran font paragraf dan tata letak teks menjadi kiri.
+
+6.)	.ulasan ul li img: Ini adalah gaya untuk gambar (img) di dalam elemen-elemen daftar "Ulasan." Gaya ini mengatur lebar, tinggi, pembulatan sudut, dan posisi gambar.
+
+
+7.)	.ulasan ul li h1: Ini adalah gaya untuk elemen judul (h1) di dalam elemen-elemen daftar "Ulasan." Gaya ini mengatur margin atas dan kiri untuk judul.
+
+
+
 ![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124489939/de41b99f-c809-4e88-abae-410330cd0177)
+
+CSS.footer
+Bagian "Footer"
+
+1.)	footer: Ini adalah gaya untuk elemen <footer>. Gaya ini mengatur tampilan keseluruhan dari bagian "Footer," termasuk latar belakang (background-color) dan ruang pembatas (padding).
+
+2.)	.contact-info p: Ini adalah gaya untuk elemen paragraf (p) yang berada dalam elemen dengan kelas "contact-info." Gaya ini mengatur tampilan teks pada paragraf tersebut dengan posisi teks di sebelah kiri (text-align: left) dan margin kiri (margin-left: 20px).
+
+
+3.)	.social-media ul: Ini adalah gaya untuk elemen daftar tak terurut (ul) dalam bagian "Footer" yang berhubungan dengan media sosial. Gaya ini mengatur tampilan dari daftar tak terurut dan mengatur fleks (display: flex) untuk menampilkan ikon media sosial secara horizontal.
+
+4.)	.social-media ul li: Ini adalah gaya untuk elemen-elemen daftar (li) dalam daftar media sosial. Gaya ini menghilangkan tanda bullet dari daftar tak terurut (list-style: none).
+
+
+5.)	.social-media ul li a: Ini adalah gaya untuk tautan (a) dalam daftar media sosial. Gaya ini mengatur ukuran dan tampilan ikon media sosial, termasuk ukuran, warna latar belakang, dan efek hover. Ikon media sosial memiliki tampilan latar belakang yang melingkar (border-radius: 50%) dan efek hover berupa perubahan warna dan rotasi ikon.
+
+6.)	.social-media ul li a .icon: Ini adalah gaya untuk ikon media sosial (ikon dengan kelas "icon") dalam tautan media sosial. Gaya ini mengatur ukuran ikon, warna teks, dan efek transisi (transition).
+
+
+7.)	.subscribe: Ini adalah gaya untuk elemen dengan kelas "subscribe" yang berada dalam bagian "Footer." Gaya ini mengatur tampilan elemen ini, termasuk tata letak teks, margin, dan posisi.
+
+8.)	.subscribe input: Ini adalah gaya untuk elemen input dalam elemen dengan kelas "subscribe." Gaya ini mengatur ukuran input dan padding, serta memberikan elemen input tampilan dengan border-radius yang melingkar.
+
+
+9.)	.subscribe button: Ini adalah gaya untuk tombol dalam elemen "subscribe." Gaya ini mengatur tampilan tombol, termasuk latar belakang, warna teks, border-radius, dan efek hover.
+
+
 
 ![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124489939/61631bbd-096a-49f9-8c1a-94f99954b36d)
 
+CSS.login & sign up
+
+Bagian "Login" dan "Signup"
+
+1.)	.login, .signup: Gaya ini mengatur elemen-elemen dengan kelas "login" dan "signup" untuk ditempatkan di tengah halaman dengan pengaturan text-align: center. Ini memastikan bahwa elemen-elemen tersebut akan berada di tengah halaman.
+
+2.)	.login-box, .signup-box: Ini mengatur tampilan kotak (box) yang berisi elemen login dan signup. Kotak ini memiliki latar belakang semi-transparan (background-color: rgba(0, 0, 0, 0.8)), margin yang menjaga jarak dari tepi halaman, lebar dan tinggi tertentu, serta border-radius yang memberikan tampilan sudut kotak yang melengkung. Padding digunakan untuk memberi ruang di dalam kotak.
+3.)	.login-box h1, .signup-box h1: Ini mengatur tampilan judul pada kotak login dan signup. Judul memiliki efek "text-transform" sehingga hurufnya menjadi kapital dan memiliki garis bawah.
+
+4.)	.login form, .signup form: Ini mengatur tampilan formulir yang digunakan untuk login dan signup. Formulir memiliki lebar tertentu dan ditempatkan di tengah kotak.
+
+
+5.)	.login form input, .signup form input: Ini mengatur tampilan input dalam formulir, termasuk lebar, padding, margin bawah, ukuran huruf, dan border-radius yang mengelilingi input.
+
+6.)	.login form button, .signup form button: Ini mengatur tampilan tombol "Login" dan "Signup." 
+
+
+7.)	Tombol ini memiliki latar belakang berwarna biru (background-color: #009ff5), teks berwarna putih, border-radius untuk sudut yang melengkung, dan beberapa efek saat digunakan (hover).
+
+8.)	.login p a, .signup a: Ini mengatur tampilan tautan "Forget Password" dan "Already Have an Account." Tautan ini memiliki warna teks, gaya huruf, dan efek hover yang mengubah tampilan saat kursor diarahkan.
+
+
+Bagian "Social Media Signup"
+
+1.)	.sosmed-signup ul, .sosmed-login ul: Ini mengatur tampilan daftar tak terurut (ul) yang berisi tautan media sosial. Gaya ini memposisikan daftar tersebut di tengah kotak.
+
+2.)	.sosmed-signup ul li, .sosmed-login ul li: Ini mengatur tampilan elemen-elemen daftar (li) dalam daftar tautan media sosial.
+
+3.)	.sosmed-signup ul li a, .sosmed-login ul li a: Ini mengatur tampilan tautan media sosial. Tautan ini memiliki latar belakang berwarna putih, efek transisi hover, dan efek rotasi ikon saat kursor diarahkan.
+
+4.)	.sosmed-signup ul li a .icon, .sosmed-login ul li a .icon: Ini mengatur tampilan ikon media sosial dalam tautan. Gaya ini mengatur ukuran, warna teks, dan efek transisi.
+
+5.)	.sosmed-signup li a:before, .sosmed-login li a:before: Ini mengatur latar belakang tautan media sosial sebelum efek hover diterapkan. Ketika digunakan, tautan media sosial akan berubah warna latar belakangnya sesuai dengan tautan yang diarahkan.
+
+
+
 ![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124489939/01b4517b-be6d-466c-998c-6f1c319f406f)
+
+CSS.Contact
+
+Bagian "Contact Box"
+
+1.	.contact-box: Ini mengatur tampilan kotak (box) yang berisi elemen-elemen kontak. Kotak ini memiliki latar belakang semi-transparan (background-color: rgba(0, 0, 0, 0.8)), margin yang menjaga jarak dari tepi halaman, lebar dan tinggi tertentu, serta border-radius yang memberikan tampilan sudut kotak yang melengkung. Padding digunakan untuk memberi ruang di dalam kotak.
+
+Bagian "Contact"
+
+1.)	.contact: Ini mengatur tampilan teks kontak. Teks ini memiliki warna putih (color: #fff) dan posisi absolut, yang memungkinkan Anda mengatur posisi elemen secara bebas di dalam kotak. Margin digunakan untuk mengatur jarak antara elemen-elemen tersebut.
+
+2.)	.contact h1: Ini mengatur tampilan judul pada halaman kontak. Judul ini memiliki ukuran font (font-size) tertentu.
+
+3.)	.contact p: Ini mengatur tampilan teks paragraf pada halaman kontak. Teks ini memiliki ukuran font (font-size) tertentu.
+
+Bagian "Message”
+
+1.)	.message: Ini mengatur tampilan elemen-elemen yang berkaitan dengan pesan yang dapat dikirim melalui halaman kontak. Elemen-elemen ini ditempatkan di sebelah kanan halaman kontak menggunakan float: right.
+
+2.)	.message input: Ini mengatur tampilan input dalam formulir pesan. Input ini memiliki lebar tertentu, padding, margin bawah, ukuran huruf, dan border-radius yang mengelilingi input.
+
+3.)	.message textarea: Ini mengatur tampilan area teks dalam formulir pesan. Area teks ini memiliki lebar dan tinggi tertentu, serta border-radius yang mengelilingi area teks.
+
+4.)	.message button: Ini mengatur tampilan tombol "Send" pada formulir pesan. Tombol ini memiliki latar belakang berwarna biru (background-color: #009ff5), teks berwarna putih, border-radius untuk sudut yang melengkung, dan beberapa efek saat digunakan (hover).
+
+5.)	.message button:hover: Ini mengatur tampilan tombol "Send" saat kursor diarahkan ke tombol tersebut. Tombol akan mengalami perubahan warna latar belakang dan warna teks saat digunakan.
+
+![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124551854/ed047878-0cf8-4e74-9864-31dcd2d5f985)
+
+JavaScript
+1.	function toggleText(textId, button) {: Ini adalah deklarasi fungsi toggleText yang menerima dua argumen. textId adalah ID elemen HTML yang berisi teks yang akan diubah tampilannya, dan button adalah tombol yang digunakan untuk memicu perubahan tampilan teks.
+
+2.	var x = document.getElementById(textId);: Ini digunakan untuk mengambil elemen HTML dengan ID yang sesuai dan menyimpannya dalam variabel x. Dengan kata lain, variabel x akan merujuk ke elemen dengan ID yang diberikan dalam argumen textId.
+
+3.	if (x.style.display === "block" || x.style.display === "") {: Ini adalah pengujian kondisi yang memeriksa apakah properti display dari elemen yang dipilih (x) saat ini diatur sebagai "block" atau kosong (""), yang berarti elemen saat ini terlihat (visible).
+
+4.	Jika kondisi dalam langkah 3 bernilai benar (artinya elemen saat ini terlihat), maka pernyataan di dalam blok ini akan dijalankan:
+
+1.	x.style.display = "none"; akan mengatur properti display elemen tersebut menjadi "none," yang berarti elemen tersebut akan disembunyikan (invisible).
+
+2.	button.innerHTML = "Read More"; mengganti teks pada tombol (yang diidentifikasi oleh elemen button) menjadi "Read More" untuk memberi tahu pengguna bahwa mereka dapat memicu tampilan teks lagi.
+
+
+5.	Jika kondisi dalam langkah 3 adalah salah (artinya elemen saat ini tidak terlihat), maka pernyataan di dalam blok ini akan dijalankan:
+
+1.	x.style.display = "block"; akan mengatur properti display elemen tersebut menjadi "block," yang berarti elemen tersebut akan ditampilkan.
+
+2.	button.innerHTML = "Read Less"; mengganti teks pada tombol menjadi "Read Less" untuk memberi tahu pengguna bahwa mereka dapat menyembunyikan teks lagi.
+
+
    
    C. JAVASCRIPT
