@@ -69,7 +69,7 @@ button.signup:hover {
     background-color: #0077b5;
 }
 
-/*content*/
+/*about*/
 
 .about-us {
     padding: 50px 60px;
@@ -92,6 +92,8 @@ button.signup:hover {
     text-align: justify;
     font-size: 20px;
 }
+
+/*services*/
 
 .services-1 {
     display: flex;
