@@ -168,8 +168,11 @@ sejenisnya.
         2) Sistem mengakhiri sesi login pengguna admin dan mengarahkannya kembali ke halaman login atau halaman depan situs web
    
 4. Penjelasan Code
-   A. HTML
    
+   A. HTML
+
+   ![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124551854/fb7bfa1e-b126-4006-9137-b20bbd0ff511)
+  
    B. CSS
    
    C. JAVASCRIPT
