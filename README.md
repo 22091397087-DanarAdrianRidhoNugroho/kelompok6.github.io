@@ -171,6 +171,7 @@ sejenisnya.
    
    A. HTML
 
+index.html
      ![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124551854/fb7bfa1e-b126-4006-9137-b20bbd0ff511)
 
     ![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124551854/df2e6b40-4223-49cb-a544-497d7b962b7a)
@@ -222,6 +223,33 @@ sejenisnya.
 21.	<form>: Elemen ini digunakan untuk membuat formulir yang pengguna dapat gunakan untuk berlangganan newsletter.
 
 22.	<script src="script.js"></script>: Elemen ini memuat script JavaScript eksternal yang digunakan untuk meningkatkan fungsionalitas halaman web.
+
+![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124551854/85dbf500-9968-4358-bfe1-86cf6204814c)
+Service.html
+
+1.  <section class=*"services">: Ini adalah elemen HTML yang mendefinisikan sebuah bagian dari halaman web dengan kelas "services." Bagian ini tampaknya didedikasikan untuk menampilkan berbagai layanan yang ditawarkan oleh Smart Parking System.
+
+2.  <h1>Services<*/h1>: Ini adalah judul bagian "Services." Biasanya digunakan untuk memberikan judul atau pengenalan singkat tentang isi bagian tersebut.
+
+3.  <ul>: Ini adalah elemen yang digunakan untuk membuat daftar tak terurut, yang akan berisi berbagai layanan Smart Parking System.
+
+Item Layanan Pertama:
+
+4.  <li>: Ini adalah elemen daftar dalam daftar tak terurut.
+
+5.  <a target="_blank" href="Gambar 2.jpg">: Ini adalah tautan ke gambar (Gambar 2.jpg) yang membuka gambar dalam tab atau jendela baru (target="_blank").
+   Biasanya, gambar ini digunakan untuk menggambarkan layanan tersebut.
+
+6.  <h1>Solusi Parkir Cerdas</h1>: Ini adalah judul layanan pertama, yaitu "Solusi Parkir Cerdas."
+
+7.  <p>Solusi Parkir Cerdas kami...: Ini adalah paragraf atau deskripsi singkat dari layanan "Solusi Parkir Cerdas." Ini memberikan gambaran umum tentang layanan ini.
+
+8.  <button onclick="toggleText('text1', this)">Read More</button>: Ini adalah tombol "Read More" yang memicu suatu fungsi JavaScript ketika diklik. Tombol ini digunakan untuk memperluas deskripsi layanan saat diklik.
+
+9.  <div id="text1" class="hidden-content">: Ini adalah div yang mengandung deskripsi lebih lanjut tentang "Solusi Parkir Cerdas." Saat tombol "Read More" diklik, konten di dalam div ini akan ditampilkan. Kelas "hidden-content" mungkin digunakan untuk awalnya menyembunyikan kontennya.
+
+
+
 
    B. CSS
    
