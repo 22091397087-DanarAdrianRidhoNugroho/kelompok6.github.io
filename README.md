@@ -229,7 +229,7 @@ Service.html
 
 1.  "<section class="services">": Ini adalah elemen HTML yang mendefinisikan sebuah bagian dari halaman web dengan kelas "services." Bagian ini tampaknya didedikasikan untuk menampilkan berbagai layanan yang ditawarkan oleh Smart Parking System.
 
-2.  "<h1>Services</h1>": Ini adalah judul bagian "Services." Biasanya digunakan untuk memberikan judul atau pengenalan singkat tentang isi bagian tersebut.
+2.  "<h1+>/*Services<///**/h1>": Ini adalah judul bagian "Services.+" Biasanya digunakan untuk memberikan judul atau pengenalan singkat tentang isi bagian tersebut.
 
 3.  "<ul>": Ini adalah elemen yang digunakan untuk membuat daftar tak terurut, yang akan berisi berbagai layanan Smart Parking System.
 
@@ -237,16 +237,47 @@ Item Layanan Pertama:
 
 4.  "<li>": Ini adalah elemen daftar dalam daftar tak terurut.
 
-5.  "<a target="_blank" href="Gambar 2.jpg">": Ini adalah tautan ke gambar (Gambar 2.jpg) yang membuka gambar dalam tab atau jendela baru (target="_blank").
+5.  "<a target="_blank" href="Gambar 2.jpg*">": Ini adalah tautan ke gambar (Gambar 2.*) yang membuka gambar dalam tab atau jendela baru (target="_blank").
    Biasanya, gambar ini digunakan untuk menggambarkan layanan tersebut.
 
-6.  "<h1>Solusi Parkir Cerdas</h1>": Ini adalah judul layanan pertama, yaitu "Solusi Parkir Cerdas."
+6.  "<h1+>Solusi Parkir Cerdas</*+h1>": Ini adalah judul layanan pertama, yaitu "+Solusi Parkir Cerdas."
 
-7.  "<p>"Solusi Parkir Cerdas kami...: Ini adalah paragraf atau deskripsi singkat dari layanan "Solusi Parkir Cerdas." Ini memberikan gambaran umum tentang layanan ini.
+7.  "<p>"Solusi Parkir Cerdas kami/...: Ini adalah paragraf atau deskripsi singkat dari layanan "Solusi Parkir Cerdas." Ini memberikan gambaran umum tentang layanan ini.
 
 8.  "<button onclick="toggleText('text1', this)">Read More</button>: Ini adalah tombol "Read More" yang memicu suatu fungsi JavaScript ketika diklik. Tombol ini digunakan untuk memperluas deskripsi layanan saat diklik.
 
 9.  "<div id="text1" class="hidden-content">": Ini adalah div yang mengandung deskripsi lebih lanjut tentang "Solusi Parkir Cerdas." Saat tombol "Read More" diklik, konten di dalam div ini akan ditampilkan. Kelas "hidden-content" mungkin digunakan untuk awalnya menyembunyikan kontennya.
+
+![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124551854/d560b011-04a5-44d8-b549-19509fc5a2d5)
+
+1.)	<section class="about-us">: Ini adalah elemen HTML yang mendefinisikan sebuah bagian dari halaman web dengan kelas "about-us." Bagian ini tampaknya didedikasikan untuk memberikan informasi tentang perusahaan, khususnya mengenai bagaimana mereka menggunakan teknologi canggih dalam solusi parkir mereka.
+
+2.)	<a target="_blank" href="Gambar 6.jpg">: Ini adalah tautan ke gambar (Gambar 6.jpg) yang membuka gambar dalam tab atau jendela baru (target="_blank"). Gambar ini mungkin digunakan untuk mengilustrasikan konsep teknologi canggih yang digunakan dalam solusi parkir perusahaan.
+
+
+3.)	<h1>Transformasi Parkir dengan Teknologi Canggih</h1>: Ini adalah judul yang menjelaskan tentang transformasi parkir dengan teknologi canggih yang disediakan oleh perusahaan.
+
+4.)	<p>: Ini adalah paragraf atau deskripsi yang menjelaskan penggunaan teknologi canggih dalam solusi parkir perusahaan. Ini termasuk penggunaan Internet of Things (IoT), machine learning, dan webcam dalam mengoptimalkan penggunaan tempat parkir. Deskripsi ini juga menyoroti komitmen perusahaan untuk menyediakan solusi parkir inovatif yang menyederhanakan kehidupan masyarakat.
+Bagian Kedua - Tim Perusahaan:
+
+1.)	<section>: Ini adalah elemen HTML yang menandakan sebuah bagian selanjutnya dari halaman web. Bagian ini tampaknya didedikasikan untuk memperkenalkan tim perusahaan.
+
+2.)	<div class="team">: Ini adalah div yang berisi informasi tentang tim perusahaan.
+
+
+3.)	<div class="garis-kiri"> dan <div class="garis-kanan">: Ini adalah elemen div yang digunakan untuk membuat garis horizontal di sebelah kiri dan kanan judul "Tim Kami."
+
+4.)	<h1>Tim Kami</h1>: Ini adalah judul yang menjelaskan bahwa bagian ini adalah tentang tim perusahaan.
+
+
+5.)	<div class="foto-team">: Ini adalah div yang berisi informasi dan gambar anggota tim perusahaan.
+
+6.)	<ul>: Ini adalah elemen yang digunakan untuk membuat daftar tak terurut yang akan berisi informasi tentang anggota tim.
+
+
+7.)	Setiap anggota tim direpresentasikan oleh elemen <li>. Setiap elemen <li> termasuk gambar, nama anggota tim, dan nomor identifikasi. Ini memungkinkan pengunjung untuk mengenal lebih dekat anggota tim perusahaan.
+
+![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124551854/971ddc55-8da8-4c54-b7e3-df734c5cb63f)
 
 
 
