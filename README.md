@@ -171,8 +171,58 @@ sejenisnya.
    
    A. HTML
 
-   ![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124551854/fb7bfa1e-b126-4006-9137-b20bbd0ff511)
-  
+     ![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124551854/fb7bfa1e-b126-4006-9137-b20bbd0ff511)
+
+    ![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124551854/df2e6b40-4223-49cb-a544-497d7b962b7a)
+
+ ![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124551854/dffc7a5a-b8dd-47f0-9305-a4f87798db7e)
+
+![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124551854/549391ef-9ce1-43ce-bc37-28373ca11074)
+
+1.	<!DOCTYPE html>: Deklarasi tipe dokumen (DTD) yang menunjukkan bahwa halaman ini adalah dokumen HTML. Ini digunakan untuk menginformasikan browser bahwa halaman ini mengikuti standar HTML5.
+
+2.	<html lang="id">: Elemen ini mendefinisikan awal dari dokumen HTML. Atribut lang="id" menandakan bahwa bahasa yang digunakan dalam halaman ini adalah bahasa Indonesia.
+
+3.	<head>: Elemen kepala dokumen HTML yang berisi informasi-informasi meta dan pengaturan yang tidak ditampilkan kepada pengguna. Ini termasuk pengaturan karakter, pengkodean, judul halaman, dan file eksternal yang digunakan.
+
+4.	<meta charset="UTF-8">: Elemen ini mendefinisikan pengkodean karakter UTF-8 untuk halaman. Ini digunakan untuk mendukung karakter internasional dalam halaman web.
+
+5.	<meta name="viewport" content="width=device-width, initial-scale=1.0">: Elemen <meta> ini digunakan untuk mengatur tampilan halaman pada perangkat seluler. Ini memastikan bahwa lebar halaman sesuai dengan lebar perangkat dan faktor skala awalnya diatur ke 1.0.
+
+6.	<title>Smart Parking System</title>: Elemen ini mendefinisikan judul halaman web yang akan ditampilkan di tab atau jendela browser. Judul ini akan membantu pengguna mengidentifikasi konten halaman.
+
+7.	<link rel="stylesheet" type="text/css" href="model.css">: Elemen <link> ini digunakan untuk memuat file stylesheet eksternal "model.css" yang digunakan untuk mengatur tampilan halaman dengan mengaplikasikan gaya dan tata letak.
+
+8.	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">: Elemen <link> ini memuat stylesheet eksternal dari Font Awesome, yang memberikan akses ke ikon-ikon kustom yang dapat digunakan dalam halaman web.
+
+9.	<body>: Elemen ini merupakan area utama di mana konten halaman web ditampilkan. Semua elemen yang terlihat oleh pengguna, seperti teks, gambar, dan tautan, ditempatkan di dalam elemen <body>.
+
+10.	<header>: Elemen ini digunakan untuk menyusun bagian kepala halaman, yang biasanya berisi elemen-elemen seperti logo, menu navigasi, dan judul halaman.
+
+11.	<nav>: Elemen ini digunakan untuk membuat bagian navigasi halaman web. Biasanya berisi tautan menu ke halaman-halaman terkait.
+
+12.	<section class="about-us">: Elemen ini menandai awal dari bagian "Tentang Kami" di halaman. Ini digunakan untuk mengelompokkan konten yang berkaitan dengan informasi tentang produk atau layanan yang ditawarkan.
+
+13.	<a>: Elemen ini digunakan untuk membuat tautan ke halaman lain. Pada contoh ini, digunakan untuk menghubungkan gambar ke file "Gambar 6.jpg"".
+
+14.	<img src="Gambar 6.jpg" alt="gambar 6"">: Elemen ini digunakan untuk menampilkan gambar di halaman web. Atribut src menentukan sumber gambar, sementara atribut alt memberikan teks alternatif jika gambar tidak dapat dimuat.
+
+15.	<*h1>Transformasi Parkir dengan Teknologi Canggih/<*/h1>: Elemen ini digunakan untuk menampilkan judul besar yang menyoroti topik "Tentang Kami" di halaman.
+
+16.	<p>: Elemen ini digunakan untuk menampilkan paragraf teks. Digunakan untuk menjelaskan informasi tentang produk "Smart Parking System."
+
+17.	<div class="team">: Elemen ini digunakan untuk mengelompokkan konten tentang "Tim Kami" yang termasuk h1, dan elemen-elemen lainnya.
+
+18.	<ul>: Elemen ini digunakan untuk membuat daftar yang berisi informasi tentang anggota tim, termasuk gambar dan teks terkait.
+
+19.	<footer>: Elemen ini digunakan untuk membuat bagian bawah halaman web yang biasanya berisi informasi kontak dan tautan ke media sosial.
+
+20.	<i class="fab fa-facebook-f icon"></i>: Elemen ini digunakan untuk menampilkan ikon media sosial dari Font Awesome.
+
+21.	<form>: Elemen ini digunakan untuk membuat formulir yang pengguna dapat gunakan untuk berlangganan newsletter.
+
+22.	<script src="script.js"></script>: Elemen ini memuat script JavaScript eksternal yang digunakan untuk meningkatkan fungsionalitas halaman web.
+
    B. CSS
    
    C. JAVASCRIPT
