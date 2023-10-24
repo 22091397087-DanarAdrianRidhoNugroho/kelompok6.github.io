@@ -23,19 +23,19 @@ pengembangan dalam merancang dan mengimplementasikan situs web.
    ![Flowchart (1)](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124551854/ac99ad84-5d38-4488-9cc7-6567f0ee9ac9)
    
    - Start: Ini adalah titik awal dari navigasi di website profil perusahaan. Ketika pengguna pertama kali mengakses website, mereka akan memulai dari sini.
-
-  - Halaman Utama: Setelah pengguna memulai dari "Start," mereka akan diarahkan ke halaman utama atau homepage perusahaan. Halaman utama biasanya berisi informasi ringkas tentang perusahaan dan tautan menu ke bagian-bagian lain dari website.
-
+   
+   - Halaman Utama: Setelah pengguna memulai dari "Start," mereka akan diarahkan ke halaman utama atau homepage perusahaan. Halaman utama biasanya berisi informasi ringkas tentang perusahaan dan tautan menu ke bagian-bagian lain dari website.
+   
    - Tentang Perusahaan: Pengguna memiliki opsi untuk mengklik tautan "Tentang Kami" di halaman utama, yang akan membawa mereka ke halaman yang memberikan rincian tentang perusahaan, sejarah, dan nilai-nilai.
-
+   
    - Produk/Layanan: Pengguna juga dapat memilih untuk mengeksplorasi produk atau layanan yang ditawarkan oleh perusahaan. Ini mungkin mencakup deskripsi produk, spesifikasi, dan lainnya.
-
+   
    - Sign In: Selain itu, jika pengguna ingin masuk ke akun mereka atau mengakses area yang memerlukan otentikasi, mereka dapat memilih "Sign In."
-
+   
    - Kontak: Pengguna dapat mencari informasi kontak perusahaan, seperti alamat, nomor telepon, atau formulir kontak di halaman "Kontak."
-
+   
    - Media Sosial: Jika perusahaan aktif di media sosial, pengguna dapat mengeklik tautan ke halaman media sosial perusahaan di mana mereka dapat mengikuti atau berinteraksi dengan perusahaan di platform tersebut.
-
+   
    - End: Flowchart diakhiri dengan "End," yang menunjukkan akhir dari navigasi pengguna. Pengguna dapat kembali ke halaman utama atau keluar dari website.   
 
    B. UseCase Diagram
