@@ -42,141 +42,139 @@ pengembangan dalam merancang dan mengimplementasikan situs web.
 
    ![Use Case](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124551854/5ad985df-b6b7-439c-843a-756b407349e8)
 
-  1. View Homepage (Melihat Halaman Depan):
+     a). View Homepage (Melihat Halaman Depan):
 
-      • Aktor Utama: Pengguna customer.
+         • Aktor Utama: Pengguna customer.
      
-      • Deskripsi: Pengguna mengunjungi situs web dan melihat halaman depan (homepage) untuk mendapatkan informasi umum tentang bisnis atau layanan
-yang ditawarkan.
+         • Deskripsi: Pengguna mengunjungi situs web dan melihat halaman depan (homepage) untuk mendapatkan informasi umum tentang bisnis atau layanan yang ditawarkan.
 
-      • Langkah-langkah:
+        • Langkah-langkah:
      
-         1) Pengguna membuka peramban web.
+           1) Pengguna membuka peramban web.
      
-         2) Pengguna memasukkan URL situs web.
+           2) Pengguna memasukkan URL situs web.
      
-         3) Halaman depan situs web dimuat.
+           3) Halaman depan situs web dimuat.
      
-         4) Pengguna melihat konten halaman depan, seperti gambar, teks, dan mungkin tautan ke halaman lain.
+           4) Pengguna melihat konten halaman depan, seperti gambar, teks, dan mungkin tautan ke halaman lain.
 
-2. View About Us (Melihat Halaman Tentang Kami):
+     b). View About Us (Melihat Halaman Tentang Kami):
 
-     • Aktor Utama: Pengguna customer.
+         • Aktor Utama: Pengguna customer.
    
-     • Deskripsi: Pengguna tertarik untuk memahami lebih lanjut tentang perusahaan atau
-individu yang berdiri di balik situs web tersebut.
+         • Deskripsi: Pengguna tertarik untuk memahami lebih lanjut tentang perusahaan atau individu yang berdiri di balik situs web tersebut.
 
-     • Langkah-langkah:
+         • Langkah-langkah:
    
-        1) Dari halaman depan, pengguna menemukan tautan "About Us" atau
-sejenisnya.
+            1) Dari halaman depan, pengguna menemukan tautan "About Us" atau sejenisnya.
 
-        2) Pengguna mengklik tautan "About Us."
+            2) Pengguna mengklik tautan "About Us."
         
-        3) Halaman "About Us" dimuat.
+            3) Halaman "About Us" dimuat.
         
-        4) Pengguna membaca informasi tentang perusahaan atau individu tersebut.\
-        
-3. View Contact Us (Melihat Halaman Kontak Kami)
+            4) Pengguna membaca informasi tentang perusahaan atau individu tersebut.
+          
+     c). View Contact Us (Melihat Halaman Kontak Kami)
 
-     • Aktor Utama: Pengguna customer.
+         • Aktor Utama: Pengguna customer.
 
-     • Deskripsi: Pengguna ingin menghubungi perusahaan atau individu yang terkait dengan situs web tersebut.
+         • Deskripsi: Pengguna ingin menghubungi perusahaan atau individu yang terkait dengan situs web tersebut.
 
-     • Langkah-langkah:
+         • Langkah-langkah:
       
-        1) Dari halaman depan atau halaman "About Us," pengguna menemukan tautan "Contact Us" atau sejenisnya.
+            1) Dari halaman depan atau halaman "About Us," pengguna menemukan tautan "Contact Us" atau sejenisnya.
       
-        2) Pengguna mengklik tautan "Contact Us."
+            2) Pengguna mengklik tautan "Contact Us."
       
-        3) Halaman "Contact Us" dimuat.
+            3) Halaman "Contact Us" dimuat.
       
-        4) Pengguna melihat informasi kontak, seperti alamat email, nomor telepon, atau formulir kontak.
+            4) Pengguna melihat informasi kontak, seperti alamat email, nomor telepon, atau formulir kontak.
 
-4. Register (Mendaftar):\
+     d). Register (Mendaftar):\
    
-     • Aktor Utama: Pengguna customer.
+         • Aktor Utama: Pengguna customer.
 
-     • Deskripsi: Pengguna ingin mendaftar atau membuat akun di situs web tersebut untuk mengakses fitur atau layanan tambahan.
+         • Deskripsi: Pengguna ingin mendaftar atau membuat akun di situs web tersebut untuk mengakses fitur atau layanan tambahan.
 
-     • Langkah-langkah:
+         • Langkah-langkah:
     
-        1) Dari halaman depan atau dari tautan khusus "Register" di menu, pengguna memilih opsi "Register" atau "Sign Up."
+            1) Dari halaman depan atau dari tautan khusus "Register" di menu, pengguna memilih opsi "Register" atau "Sign Up."
       
-        2) Pengguna diarahkan ke halaman pendaftaran.
+            2) Pengguna diarahkan ke halaman pendaftaran.
       
-        3) Pengguna mengisi formulir pendaftaran dengan informasi yang diperlukan, seperti nama, alamat email, kata sandi, dan data pribadi lainnya.
+            3) Pengguna mengisi formulir pendaftaran dengan informasi yang diperlukan, seperti nama, alamat email, kata sandi, dan data pribadi lainnya.
       
-        4) Pengguna mengklik tombol "Submit" atau sejenisnya untuk menyelesaikan pendaftaran.
+            4) Pengguna mengklik tombol "Submit" atau sejenisnya untuk menyelesaikan pendaftaran.
 
-5. Login (Masuk):
+      e). Login (Masuk):
 
-     • Aktor Utama: Pengguna admin.
+          • Aktor Utama: Pengguna admin.
 
-     • Deskripsi: Pengguna admin perlu masuk ke akun admin mereka untuk mengakses kontrol dan fitur administratif di situs web.
+          • Deskripsi: Pengguna admin perlu masuk ke akun admin mereka untuk mengakses kontrol dan fitur administratif di situs web.
 
-     • Langkah-langkah:
+          • Langkah-langkah:
       
-        1) Pengguna admin membuka halaman login di situs web.
+            1) Pengguna admin membuka halaman login di situs web.
       
-        2) Pengguna admin memasukkan nama pengguna (username) dan kata sandi (password) mereka.
+            2) Pengguna admin memasukkan nama pengguna (username) dan kata sandi (password) mereka.
       
-        3) Sistem memverifikasi informasi login.
+            3) Sistem memverifikasi informasi login.
       
-        4) Jika informasi login valid, pengguna admin diizinkan untuk mengakses akun admin mereka.
+            4) Jika informasi login valid, pengguna admin diizinkan untuk mengakses akun admin mereka.
       
-6. View Customer on the Web (Melihat Data Customer di Situs Web):
+      f). View Customer on the Web (Melihat Data Customer di Situs Web):
 
-     • Aktor Utama: Pengguna admin.
+          • Aktor Utama: Pengguna admin.
 
-     • Deskripsi: Pengguna admin ingin melihat data dan informasi terkait dengan pengguna customer yang terdaftar di situs web.
+          • Deskripsi: Pengguna admin ingin melihat data dan informasi terkait dengan pengguna customer yang terdaftar di situs web.
 
-     • Langkah-langkah:
+          • Langkah-langkah:
     
-        1) Setelah masuk, pengguna admin mengakses panel administratif.
+            1) Setelah masuk, pengguna admin mengakses panel administratif.
       
-        2) Pengguna admin memilih opsi "View Customers" atau "Lihat Data Customer."
+            2) Pengguna admin memilih opsi "View Customers" atau "Lihat Data Customer."
       
-        3) Sistem menampilkan daftar pengguna customer yang terdaftar beserta detailnya, seperti nama, alamat email, informasi kontak, dan riwayat transaksi.
+            3) Sistem menampilkan daftar pengguna customer yang terdaftar beserta detailnya, seperti nama, alamat email, informasi kontak, dan riwayat transaksi.
 
-7. Edit Web (Mengedit Situs Web):
+      g). Edit Web (Mengedit Situs Web):
 
-     • Aktor Utama: Pengguna admin.
+          • Aktor Utama: Pengguna admin.
 
-     • Deskripsi: Pengguna admin bertanggung jawab untuk mengedit konten dan pengaturan situs web, seperti mengubah teks, gambar, atau konfigurasi situs.
+          • Deskripsi: Pengguna admin bertanggung jawab untuk mengedit konten dan pengaturan situs web, seperti mengubah teks, gambar, atau konfigurasi situs.
 
-     • Langkah-langkah:
+          • Langkah-langkah:
       
-        1) Setelah masuk, pengguna admin mengakses panel administratif.
+            1) Setelah masuk, pengguna admin mengakses panel administratif.
       
-        2) Pengguna admin memilih opsi "Edit Website" atau "Edit Konten" atau sejenisnya.
+            2) Pengguna admin memilih opsi "Edit Website" atau "Edit Konten" atau sejenisnya.
       
-        3) Pengguna admin dapat mengganti teks, gambar, atau mengkonfigurasi berbagai aspek situs web, seperti tampilan, tema, dan pengaturan lainnya.
+            3) Pengguna admin dapat mengganti teks, gambar, atau mengkonfigurasi berbagai aspek situs web, seperti tampilan, tema, dan pengaturan lainnya.
       
-        4) Pengguna admin menyimpan perubahan yang telah dibuat.
+            4) Pengguna admin menyimpan perubahan yang telah dibuat.
 
-8. Logout (Keluar):
+      h). Logout (Keluar):
 
-     • Aktor Utama: Pengguna admin.
+          • Aktor Utama: Pengguna admin.
+  
+          • Deskripsi: Pengguna admin ingin keluar dari akun admin mereka untuk menjaga keamanan dan privasi informasi di situs web.
 
-     • Deskripsi: Pengguna admin ingin keluar dari akun admin mereka untuk menjaga keamanan dan privasi informasi di situs web.
-
-     • Langkah-langkah:
+          • Langkah-langkah:
       
-        1) Pengguna admin yang telah selesai melakukan tugas administratif memilih opsi "Logout" atau "Keluar" di panel administratif atau pada halaman akun mereka.
+            1) Pengguna admin yang telah selesai melakukan tugas administratif memilih opsi "Logout" atau "Keluar" di panel administratif atau pada halaman akun mereka.
       
-        2) Sistem mengakhiri sesi login pengguna admin dan mengarahkannya kembali ke halaman login atau halaman depan situs web
+            2) Sistem mengakhiri sesi login pengguna admin dan mengarahkannya kembali ke halaman login atau halaman depan situs web
    
-4. Penjelasan Code
+3. Penjelasan Code
    
    A. HTML
 
 index.html
-     ![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124551854/fb7bfa1e-b126-4006-9137-b20bbd0ff511)
 
-    ![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124551854/df2e6b40-4223-49cb-a544-497d7b962b7a)
+![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124551854/fb7bfa1e-b126-4006-9137-b20bbd0ff511)
 
- ![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124551854/dffc7a5a-b8dd-47f0-9305-a4f87798db7e)
+![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124551854/df2e6b40-4223-49cb-a544-497d7b962b7a)
+
+![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124551854/dffc7a5a-b8dd-47f0-9305-a4f87798db7e)
 
 ![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124551854/549391ef-9ce1-43ce-bc37-28373ca11074)
 
@@ -208,11 +206,11 @@ index.html
 
 14.	"<img src="Gambar 6.jpg" alt="gambar 6>": Elemen ini digunakan untuk menampilkan gambar di halaman web. Atribut src menentukan sumber gambar, sementara atribut alt memberikan teks alternatif jika gambar tidak dapat dimuat.
 
-15.	"<h1>Transformasi Parkir dengan Teknologi Canggih</h1>": Elemen ini digunakan untuk menampilkan judul besar yang menyoroti topik "Tentang Kami" di halaman.
+15.	"<h1></h1>": Elemen ini digunakan untuk menampilkan judul besar yang menyoroti topik "Tentang Kami" di halaman.
 
-16.	"<p>": Elemen ini digunakan untuk menampilkan paragraf teks. Digunakan untuk menjelaskan informasi tentang produk "Smart Parking System."
+16.	"<p></p>": Elemen ini digunakan untuk menampilkan paragraf teks. Digunakan untuk menjelaskan informasi tentang produk "Smart Parking System."
 
-17.	"<div class="team">": Elemen ini digunakan untuk mengelompokkan konten tentang "Tim Kami" yang termasuk h1, dan elemen-elemen lainnya.
+17.	"<div class="team>": Elemen ini digunakan untuk mengelompokkan konten tentang "Tim Kami" yang termasuk h1, dan elemen-elemen lainnya.
 
 18.	"<ul>": Elemen ini digunakan untuk membuat daftar yang berisi informasi tentang anggota tim, termasuk gambar dan teks terkait.
 
@@ -299,74 +297,74 @@ Ulasan Klien: Di bagian ini, setiap ulasan klien memiliki elemen-elemen berikut:
 
 ![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124489939/9a6e29cc-4086-42b7-9c15-68db472e7570)
 
-1.	<section class="login">: Ini adalah elemen yang mengelilingi seluruh area login pada halaman. Ini adalah elemen yang memberikan sebagian besar gaya dan tata letak untuk elemen-elemen yang ada dalam area login.
+1.)	<section class="login">: Ini adalah elemen yang mengelilingi seluruh area login pada halaman. Ini adalah elemen yang memberikan sebagian besar gaya dan tata letak untuk elemen-elemen yang ada dalam area login.
 
-2.	<div class="login-box">: Ini adalah kotak yang berisi elemen-elemen login, seperti formulir masuk, teks, dan tombol.
-
-
-3.	<h1>Member Login</h1>: Ini adalah judul yang menunjukkan bahwa ini adalah area untuk login anggota.
-
-4.	<form>: Ini adalah elemen formulir yang digunakan untuk mengumpulkan informasi login dari pengguna.
-
-1.	<label for="email">: Ini adalah label yang terkait dengan elemen input dengan id "email". Ini digunakan untuk memberi tahu pengguna apa yang harus dimasukkan di dalam input tersebut.
-
-2.	<input type="text" id="email" name="email" required>: Ini adalah input teks yang memungkinkan pengguna memasukkan alamat email atau nama pengguna mereka. Properti "required" menunjukkan bahwa pengisian input ini adalah wajib.
-
-3.	<label for="password">: Ini adalah label yang terkait dengan elemen input dengan id "password". Ini digunakan untuk memberi tahu pengguna apa yang harus dimasukkan di dalam input tersebut.
-
-4.	<input type="password" id="password" name="password" required>: Ini adalah input kata sandi yang memungkinkan pengguna memasukkan kata sandi mereka. Properti "required" menunjukkan bahwa pengisian input ini adalah wajib.
+2.)	<div class="login-box">: Ini adalah kotak yang berisi elemen-elemen login, seperti formulir masuk, teks, dan tombol.
 
 
-5.	<div class="forget-pss">: Ini adalah div yang berisi tautan "Forget Password" yang mengarah ke halaman yang memungkinkan pengguna mengatur ulang kata sandi mereka jika mereka lupa.
+3.)	<h1>Member Login</h1>: Ini adalah judul yang menunjukkan bahwa ini adalah area untuk login anggota.
 
-6.	<button type="submit">Login</button>: Ini adalah tombol "Login" yang digunakan untuk mengirimkan formulir login.
+4.)	<form>: Ini adalah elemen formulir yang digunakan untuk mengumpulkan informasi login dari pengguna.
+
+1.)	<label for="email">: Ini adalah label yang terkait dengan elemen input dengan id "email". Ini digunakan untuk memberi tahu pengguna apa yang harus dimasukkan di dalam input tersebut.
+
+2.)	<input type="text" id="email" name="email" required>: Ini adalah input teks yang memungkinkan pengguna memasukkan alamat email atau nama pengguna mereka. Properti "required" menunjukkan bahwa pengisian input ini adalah wajib.
+
+3.)	<label for="password">: Ini adalah label yang terkait dengan elemen input dengan id "password". Ini digunakan untuk memberi tahu pengguna apa yang harus dimasukkan di dalam input tersebut.
+
+4.)	<input type="password" id="password" name="password" required>: Ini adalah input kata sandi yang memungkinkan pengguna memasukkan kata sandi mereka. Properti "required" menunjukkan bahwa pengisian input ini adalah wajib.
+
+
+5.)	<div class="forget-pss">: Ini adalah div yang berisi tautan "Forget Password" yang mengarah ke halaman yang memungkinkan pengguna mengatur ulang kata sandi mereka jika mereka lupa.
+
+6.)	<button type="submit">Login</button>: Ini adalah tombol "Login" yang digunakan untuk mengirimkan formulir login.
 
 Footer:
 
-5.	<footer>: Ini adalah elemen footer yang berisi informasi kontak, tautan ke media sosial, dan opsi langganan newsletter.
+5.)	<footer>: Ini adalah elemen footer yang berisi informasi kontak, tautan ke media sosial, dan opsi langganan newsletter.
 
-1.	<div class="contact-info">: Ini adalah div yang berisi informasi kontak, seperti alamat, email, dan nomor telepon.
+1.)	<div class="contact-info">: Ini adalah div yang berisi informasi kontak, seperti alamat, email, dan nomor telepon.
 
-2.	<div class="social-media">: Ini adalah div yang berisi tautan ke platform media sosial, seperti Facebook, Twitter, dan Instagram.
+2.)	<div class="social-media">: Ini adalah div yang berisi tautan ke platform media sosial, seperti Facebook, Twitter, dan Instagram.
 
-3.	<div class="subscribe">: Ini adalah div yang berisi formulir untuk pengguna yang ingin berlangganan newsletter. Formulir ini meminta pengguna untuk memasukkan alamat email mereka dan memiliki tombol "Send" untuk mengirimkan data.
+3.)	<div class="subscribe">: Ini adalah div yang berisi formulir untuk pengguna yang ingin berlangganan newsletter. Formulir ini meminta pengguna untuk memasukkan alamat email mereka dan memiliki tombol "Send" untuk mengirimkan data.
 
 Script:
 
-6.	<script src="script.js"></script>: Ini adalah tautan ke file JavaScript yang disebut "script.js". Ini mengindikasikan bahwa ada script yang akan dieksekusi pada halaman web ini untuk memberikan interaktivitas tambahan.
+6.)	<script src="script.js"></script>: Ini adalah tautan ke file JavaScript yang disebut "script.js". Ini mengindikasikan bahwa ada script yang akan dieksekusi pada halaman web ini untuk memberikan interaktivitas tambahan.
 
 ![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124489939/65e54d06-6070-4b62-a577-7169dbf0611c)
 
 Bagian Sign Up:
 
-1.	<section class="signup">: Ini adalah elemen yang mengelilingi seluruh area pendaftaran pada halaman. Ini adalah elemen yang memberikan sebagian besar gaya dan tata letak untuk elemen-elemen yang ada dalam area pendaftaran.
+1.)	<section class="signup">: Ini adalah elemen yang mengelilingi seluruh area pendaftaran pada halaman. Ini adalah elemen yang memberikan sebagian besar gaya dan tata letak untuk elemen-elemen yang ada dalam area pendaftaran.
 
-2.	<div class="signup-box">: Ini adalah kotak yang berisi elemen-elemen pendaftaran, seperti formulir pendaftaran, teks, dan tombol.
+2.)	<div class="signup-box">: Ini adalah kotak yang berisi elemen-elemen pendaftaran, seperti formulir pendaftaran, teks, dan tombol.
 
-3.	<h1>Member SignUp</h1>: Ini adalah judul yang menunjukkan bahwa ini adalah area untuk mendaftar sebagai anggota.
+3.)	<h1>Member SignUp</h1>: Ini adalah judul yang menunjukkan bahwa ini adalah area untuk mendaftar sebagai anggota.
 
-4.	<form>: Ini adalah elemen formulir yang digunakan untuk mengumpulkan informasi pendaftaran dari pengguna.
+4.)	<form>: Ini adalah elemen formulir yang digunakan untuk mengumpulkan informasi pendaftaran dari pengguna.
 
-1.	<label for="fullname">: Ini adalah label yang terkait dengan elemen input dengan id "fullname." Ini digunakan untuk memberi tahu pengguna apa yang harus dimasukkan di dalam input tersebut, dalam hal ini adalah nama pengguna.
+1.)	<label for="fullname">: Ini adalah label yang terkait dengan elemen input dengan id "fullname." Ini digunakan untuk memberi tahu pengguna apa yang harus dimasukkan di dalam input tersebut, dalam hal ini adalah nama pengguna.
 
-2.	<input type="text" id="fullname" name="fullname" required>: Ini adalah input teks yang memungkinkan pengguna memasukkan nama pengguna. Properti "required" menunjukkan bahwa pengisian input ini adalah wajib.
+2.)	<input type="text" id="fullname" name="fullname" required>: Ini adalah input teks yang memungkinkan pengguna memasukkan nama pengguna. Properti "required" menunjukkan bahwa pengisian input ini adalah wajib.
 
-3.	<label for="email">: Ini adalah label yang terkait dengan elemen input dengan id "email." Ini digunakan untuk memberi tahu pengguna apa yang harus dimasukkan di dalam input tersebut, dalam hal ini adalah alamat email.
+3.)	<label for="email">: Ini adalah label yang terkait dengan elemen input dengan id "email." Ini digunakan untuk memberi tahu pengguna apa yang harus dimasukkan di dalam input tersebut, dalam hal ini adalah alamat email.
 
-4.	<input type="email" id="email" name="email" required>: Ini adalah input alamat email yang memungkinkan pengguna memasukkan alamat email mereka. Properti "required" menunjukkan bahwa pengisian input ini adalah wajib.
+4.)	<input type="email" id="email" name="email" required>: Ini adalah input alamat email yang memungkinkan pengguna memasukkan alamat email mereka. Properti "required" menunjukkan bahwa pengisian input ini adalah wajib.
 
-5.	<label for="password">: Ini adalah label yang terkait dengan elemen input dengan id "password." Ini digunakan untuk memberi tahu pengguna apa yang harus dimasukkan di dalam input tersebut, dalam hal ini adalah kata sandi.
+5.)	<label for="password">: Ini adalah label yang terkait dengan elemen input dengan id "password." Ini digunakan untuk memberi tahu pengguna apa yang harus dimasukkan di dalam input tersebut, dalam hal ini adalah kata sandi.
 
-6.	<input type="password" id="password" name="password" required>: Ini adalah input kata sandi yang memungkinkan pengguna memasukkan kata sandi mereka. Properti "required" menunjukkan bahwa pengisian input ini adalah wajib.
+6.)	<input type="password" id="password" name="password" required>: Ini adalah input kata sandi yang memungkinkan pengguna memasukkan kata sandi mereka. Properti "required" menunjukkan bahwa pengisian input ini adalah wajib.
 
-7.	<label for="confirm_password">: Ini adalah label yang terkait dengan elemen input dengan id "confirm_password." Ini digunakan untuk meminta pengguna mengonfirmasi kata sandi yang mereka masukkan.
+7.)	<label for="confirm_password">: Ini adalah label yang terkait dengan elemen input dengan id "confirm_password." Ini digunakan untuk meminta pengguna mengonfirmasi kata sandi yang mereka masukkan.
 
-8.	<input type="password" id="confirm_password" name="confirm_password" required>: Ini adalah input kata sandi konfirmasi yang memungkinkan pengguna memasukkan kata sandi mereka sekali lagi. Properti "required" menunjukkan bahwa pengisian input ini juga adalah wajib.
+8.)	<input type="password" id="confirm_password" name="confirm_password" required>: Ini adalah input kata sandi konfirmasi yang memungkinkan pengguna memasukkan kata sandi mereka sekali lagi. Properti "required" menunjukkan bahwa pengisian input ini juga adalah wajib.
 
-9.	<button type="submit">SignUp</button>: Ini adalah tombol "Sign Up" yang digunakan untuk mengirimkan formulir pendaftaran.
+9.)	<button type="submit">SignUp</button>: Ini adalah tombol "Sign Up" yang digunakan untuk mengirimkan formulir pendaftaran.
 Footer:
 
-5.	<footer>: Ini adalah elemen footer yang berisi informasi kontak, tautan ke media sosial, dan opsi langganan newsletter. Ini memiliki struktur yang mirip dengan footer pada contoh sebelumnya.
+5.)	<footer>: Ini adalah elemen footer yang berisi informasi kontak, tautan ke media sosial, dan opsi langganan newsletter. Ini memiliki struktur yang mirip dengan footer pada contoh sebelumnya.
 
 ![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124489939/990e0b45-d136-41ea-bfe0-04791096b044)
 
@@ -376,38 +374,38 @@ Bagian Contact (Kontak):
 
 2.)	<section class="contact">: Ini adalah elemen kontak yang berisi informasi kontak dan formulir kontak.
 
-1.	<h1>Ada pertanyaan?</h1>: Ini adalah judul yang menanyakan apakah pengunjung memiliki pertanyaan.
+1.)	<h1>Ada pertanyaan?</h1>: Ini adalah judul yang menanyakan apakah pengunjung memiliki pertanyaan.
 
-2.	<p>Jangan ragu untuk menelepon atau mengirim email kepada kami atau gunakan formulir kontak kami untuk menghubungi kami Kami menantikan kabar dari Anda!</p>: Ini adalah teks yang mengundang pengunjung untuk menghubungi atau menggunakan formulir kontak.
+2.)	<p>Jangan ragu untuk menelepon atau mengirim email kepada kami atau gunakan formulir kontak kami untuk menghubungi kami Kami menantikan kabar dari Anda!</p>: Ini adalah teks yang mengundang pengunjung untuk menghubungi atau menggunakan formulir kontak.
 
-3.	<h1>Keadaan darurat? Hubungi Kami:</h1>: Ini adalah judul yang menunjukkan nomor telepon darurat.
+3.)	<h1>Keadaan darurat? Hubungi Kami:</h1>: Ini adalah judul yang menunjukkan nomor telepon darurat.
 
-4.	<p>Telepon: 123-456-7890</p>: Ini adalah nomor telepon kontak darurat.
+4.)	<p>Telepon: 123-456-7890</p>: Ini adalah nomor telepon kontak darurat.
 
-5.	<h1>Kirimi Kami Surat</h1>: Ini adalah judul yang menunjukkan alamat email kontak.
+5.)	<h1>Kirimi Kami Surat</h1>: Ini adalah judul yang menunjukkan alamat email kontak.
 
-6.	<p>Email: info@smartparkingsytem.com</p>: Ini adalah alamat email kontak.
+6.)	<p>Email: info@smartparkingsytem.com</p>: Ini adalah alamat email kontak.
 
 3.)	<form class="message">: Ini adalah elemen formulir yang digunakan untuk mengumpulkan pesan dari pengunjung.
 
-1.	<label>Name</label><br>: Ini adalah label yang menunjukkan bahwa input berikutnya dimaksudkan untuk memasukkan nama pengunjung.
+1.)	<label>Name</label><br>: Ini adalah label yang menunjukkan bahwa input berikutnya dimaksudkan untuk memasukkan nama pengunjung.
 
-2.	<input type="text">: Ini adalah input teks yang memungkinkan pengunjung memasukkan nama mereka.
+2.)	<input type="text">: Ini adalah input teks yang memungkinkan pengunjung memasukkan nama mereka.
 
-3.	<label>Email</label><br>: Ini adalah label yang menunjukkan bahwa input berikutnya dimaksudkan untuk memasukkan alamat email pengunjung.
+3.)	<label>Email</label><br>: Ini adalah label yang menunjukkan bahwa input berikutnya dimaksudkan untuk memasukkan alamat email pengunjung.
 
-4.	<input type="email">: Ini adalah input alamat email yang memungkinkan pengunjung memasukkan alamat email mereka.
+4.)	<input type="email">: Ini adalah input alamat email yang memungkinkan pengunjung memasukkan alamat email mereka.
 
-5.	<label>Subject</label><br>: Ini adalah label yang menunjukkan bahwa input berikutnya dimaksudkan untuk memasukkan subjek pesan.
+5.)	<label>Subject</label><br>: Ini adalah label yang menunjukkan bahwa input berikutnya dimaksudkan untuk memasukkan subjek pesan.
 
 
-6.	<input type="text">: Ini adalah input teks yang memungkinkan pengunjung memasukkan subjek pesan.
+6.)	<input type="text">: Ini adalah input teks yang memungkinkan pengunjung memasukkan subjek pesan.
 
-7.	<label>Your Message</label><br>: Ini adalah label yang menunjukkan bahwa input berikutnya dimaksudkan untuk memasukkan pesan.
+7.)	<label>Your Message</label><br>: Ini adalah label yang menunjukkan bahwa input berikutnya dimaksudkan untuk memasukkan pesan.
 
-8.	<textarea></textarea>: Ini adalah input area teks yang memungkinkan pengunjung memasukkan pesan mereka.
+8.)	<textarea></textarea>: Ini adalah input area teks yang memungkinkan pengunjung memasukkan pesan mereka.
 
-9.	<button type="submit">Send</button>: Ini adalah tombol "Send" yang digunakan untuk mengirim pesan melalui formulir.
+9.)	<button type="submit">Send</button>: Ini adalah tombol "Send" yang digunakan untuk mengirim pesan melalui formulir.
 
    B. CSS
 
@@ -615,7 +613,7 @@ CSS.Contact
 
 Bagian "Contact Box"
 
-1.	.contact-box: Ini mengatur tampilan kotak (box) yang berisi elemen-elemen kontak. Kotak ini memiliki latar belakang semi-transparan (background-color: rgba(0, 0, 0, 0.8)), margin yang menjaga jarak dari tepi halaman, lebar dan tinggi tertentu, serta border-radius yang memberikan tampilan sudut kotak yang melengkung. Padding digunakan untuk memberi ruang di dalam kotak.
+1.)	.contact-box: Ini mengatur tampilan kotak (box) yang berisi elemen-elemen kontak. Kotak ini memiliki latar belakang semi-transparan (background-color: rgba(0, 0, 0, 0.8)), margin yang menjaga jarak dari tepi halaman, lebar dan tinggi tertentu, serta border-radius yang memberikan tampilan sudut kotak yang melengkung. Padding digunakan untuk memberi ruang di dalam kotak.
 
 Bagian "Contact"
 
@@ -637,28 +635,75 @@ Bagian "Message”
 
 5.)	.message button:hover: Ini mengatur tampilan tombol "Send" saat kursor diarahkan ke tombol tersebut. Tombol akan mengalami perubahan warna latar belakang dan warna teks saat digunakan.
 
+C. JAVASCRIPT
+
 ![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124551854/ed047878-0cf8-4e74-9864-31dcd2d5f985)
 
-JavaScript
-1.	function toggleText(textId, button) {: Ini adalah deklarasi fungsi toggleText yang menerima dua argumen. textId adalah ID elemen HTML yang berisi teks yang akan diubah tampilannya, dan button adalah tombol yang digunakan untuk memicu perubahan tampilan teks.
+1.)	function toggleText(textId, button) {: Ini adalah deklarasi fungsi toggleText yang menerima dua argumen. textId adalah ID elemen HTML yang berisi teks yang akan diubah tampilannya, dan button adalah tombol yang digunakan untuk memicu perubahan tampilan teks.
 
-2.	var x = document.getElementById(textId);: Ini digunakan untuk mengambil elemen HTML dengan ID yang sesuai dan menyimpannya dalam variabel x. Dengan kata lain, variabel x akan merujuk ke elemen dengan ID yang diberikan dalam argumen textId.
+2.)	var x = document.getElementById(textId);: Ini digunakan untuk mengambil elemen HTML dengan ID yang sesuai dan menyimpannya dalam variabel x. Dengan kata lain, variabel x akan merujuk ke elemen dengan ID yang diberikan dalam argumen textId.
 
-3.	if (x.style.display === "block" || x.style.display === "") {: Ini adalah pengujian kondisi yang memeriksa apakah properti display dari elemen yang dipilih (x) saat ini diatur sebagai "block" atau kosong (""), yang berarti elemen saat ini terlihat (visible).
+3.)	if (x.style.display === "block" || x.style.display === "") {: Ini adalah pengujian kondisi yang memeriksa apakah properti display dari elemen yang dipilih (x) saat ini diatur sebagai "block" atau kosong (""), yang berarti elemen saat ini terlihat (visible).
 
-4.	Jika kondisi dalam langkah 3 bernilai benar (artinya elemen saat ini terlihat), maka pernyataan di dalam blok ini akan dijalankan:
+4.)	Jika kondisi dalam langkah 3 bernilai benar (artinya elemen saat ini terlihat), maka pernyataan di dalam blok ini akan dijalankan:
 
-1.	x.style.display = "none"; akan mengatur properti display elemen tersebut menjadi "none," yang berarti elemen tersebut akan disembunyikan (invisible).
+1.)	x.style.display = "none"; akan mengatur properti display elemen tersebut menjadi "none," yang berarti elemen tersebut akan disembunyikan (invisible).
 
-2.	button.innerHTML = "Read More"; mengganti teks pada tombol (yang diidentifikasi oleh elemen button) menjadi "Read More" untuk memberi tahu pengguna bahwa mereka dapat memicu tampilan teks lagi.
-
-
-5.	Jika kondisi dalam langkah 3 adalah salah (artinya elemen saat ini tidak terlihat), maka pernyataan di dalam blok ini akan dijalankan:
-
-1.	x.style.display = "block"; akan mengatur properti display elemen tersebut menjadi "block," yang berarti elemen tersebut akan ditampilkan.
-
-2.	button.innerHTML = "Read Less"; mengganti teks pada tombol menjadi "Read Less" untuk memberi tahu pengguna bahwa mereka dapat menyembunyikan teks lagi.
+2.)	button.innerHTML = "Read More"; mengganti teks pada tombol (yang diidentifikasi oleh elemen button) menjadi "Read More" untuk memberi tahu pengguna bahwa mereka dapat memicu tampilan teks lagi.
 
 
-   
-   C. JAVASCRIPT
+5.)	Jika kondisi dalam langkah 3 adalah salah (artinya elemen saat ini tidak terlihat), maka pernyataan di dalam blok ini akan dijalankan:
+
+1.)	x.style.display = "block"; akan mengatur properti display elemen tersebut menjadi "block," yang berarti elemen tersebut akan ditampilkan.
+
+2.)	button.innerHTML = "Read Less"; mengganti teks pada tombol menjadi "Read Less" untuk memberi tahu pengguna bahwa mereka dapat menyembunyikan teks lagi.
+
+
+
+  4. Tampilan Web
+
+A. Homepage
+
+  Halaman utama ini akan menampilkan informasi umum tentang Smart Parking System.
+  
+  ![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124489939/a76a80b4-5329-4907-9211-7462e8cc5a51)
+
+B. About Us
+
+  Halaman ini berisi informasi tentang perusahaan atau entitas yang mengoperasikan Smart Parking System. Ini mungkin mencakup sejarah, visi, misi, atau nilai-nilai Perusahaan.
+
+  ![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124489939/40da3e38-c935-47f0-ae7a-b8bb01f2bc33)
+  
+C. Services
+
+  Halaman ini berisi informasi tentang layanan yang ditawarkan oleh Smart Parking System, seperti tarif parkir, lokasi parkir yang tersedia, dan layanan tambahan (misalnya, reservasi parkir).
+
+  ![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124489939/8708c9da-c92e-4ebd-99fa-7d9af13c62c5)
+
+D. Contact Us
+
+  Halaman ini berisi informasi kontak yang memungkinkan pelanggan menghubungi perusahaan jika mereka memiliki pertanyaan atau masalah terkait sistem parkir pintar ini. Informasi kontak mungkin termasuk alamat email, nomor telepon, atau formulir kontak.	
+
+  ![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124489939/c037879f-c7df-4314-90d4-54f0154afcfe)
+
+E. Sign Up
+
+  Ini adalah halaman yang memungkinkan pelanggan mendaftar atau membuat akun di sistem parkir pintar. Mereka mungkin perlu mengisi informasi pribadi, seperti nama, email, Password
+
+  ![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124489939/0e8f7fe9-53c5-4b94-9cee-cbe3c5b72238)
+
+F. Login
+
+  Ini adalah halaman masuk yang diperuntukkan bagi admin untuk mengakses alat pengelolaan web dan 	kontrol sistem parkir. Admin harus memasukkan nama pengguna dan kata sandi mereka
+  untuk masuk.
+
+  ![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124489939/6115693d-14a0-40fe-995a-f134a664f9fd)
+
+ 
+
+  
+
+
+
+
+
