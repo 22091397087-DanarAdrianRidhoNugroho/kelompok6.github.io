@@ -178,98 +178,62 @@ index.html
 
 ![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124551854/549391ef-9ce1-43ce-bc37-28373ca11074)
 
-1.	<!DOCTYPE html>: Deklarasi tipe dokumen (DTD) yang menunjukkan bahwa halaman ini adalah dokumen HTML. Ini digunakan untuk menginformasikan browser bahwa halaman ini mengikuti standar HTML5.
-
-2.	<html lang="id">: Elemen ini mendefinisikan awal dari dokumen HTML. Atribut lang="id" menandakan bahwa bahasa yang digunakan dalam halaman ini adalah bahasa Indonesia.
-
-3.	<head>: Elemen kepala dokumen HTML yang berisi informasi-informasi meta dan pengaturan yang tidak ditampilkan kepada pengguna. Ini termasuk pengaturan karakter, pengkodean, judul halaman, dan file eksternal yang digunakan.
-
-4.	<meta charset="UTF-8">: Elemen ini mendefinisikan pengkodean karakter UTF-8 untuk halaman. Ini digunakan untuk mendukung karakter internasional dalam halaman web.
-
-5.	<meta name="viewport" content="width=device-width, initial-scale=1.0">: Elemen <meta> ini digunakan untuk mengatur tampilan halaman pada perangkat seluler. Ini memastikan bahwa lebar halaman sesuai dengan lebar perangkat dan faktor skala awalnya diatur ke 1.0.
-
-6.	<title>Smart Parking System</title>: Elemen ini mendefinisikan judul halaman web yang akan ditampilkan di tab atau jendela browser. Judul ini akan membantu pengguna mengidentifikasi konten halaman.
-
-7.	<link rel="stylesheet" type="text/css" href="model.css">: Elemen <link> ini digunakan untuk memuat file stylesheet eksternal "model.css" yang digunakan untuk mengatur tampilan halaman dengan mengaplikasikan gaya dan tata letak.
-
-8.	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">: Elemen <link> ini memuat stylesheet eksternal dari Font Awesome, yang memberikan akses ke ikon-ikon kustom yang dapat digunakan dalam halaman web.
-
-9.	<body>: Elemen ini merupakan area utama di mana konten halaman web ditampilkan. Semua elemen yang terlihat oleh pengguna, seperti teks, gambar, dan tautan, ditempatkan di dalam elemen <body>.
-
+1.	<!DOCTYPE html>: Deklarasi tipe dokumen (DTD) yang menunjukkan bahwa halaman ini adalah dokumen HTML. Ini digunakan untuk menginformasikan browser bahwa           halaman ini mengikuti standar HTML5.
+2.	<html lang="id">: Elemen ini mendefinisikan awal dari dokumen HTML. Atribut lang="id" menandakan bahwa bahasa yang digunakan dalam halaman ini adalah bahasa       Indonesia.
+3.	<head>: Elemen kepala dokumen HTML yang berisi informasi-informasi meta dan pengaturan yang tidak ditampilkan kepada pengguna. Ini termasuk pengaturan             karakter, pengkodean, judul halaman, dan file eksternal yang digunakan.
+4.	<meta charset="UTF-8">: Elemen ini mendefinisikan pengkodean karakter UTF-8 untuk halaman. Ini digunakan untuk mendukung karakter internasional dalam halaman     web.
+5.	<meta name="viewport" content="width=device-width, initial-scale=1.0">: Elemen <meta> ini digunakan untuk mengatur tampilan halaman pada perangkat seluler.       Ini memastikan bahwa lebar halaman sesuai dengan lebar perangkat dan faktor skala awalnya diatur ke 1.0.
+6.	<title>Smart Parking System</title>: Elemen ini mendefinisikan judul halaman web yang akan ditampilkan di tab atau jendela browser. Judul ini akan membantu       pengguna mengidentifikasi konten halaman.
+7.	<link rel="stylesheet" type="text/css" href="model.css">: Elemen <link> ini digunakan untuk memuat file stylesheet eksternal "model.css" yang digunakan untuk     mengatur tampilan halaman dengan mengaplikasikan gaya dan tata letak.
+8.	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"                                               integrity="sha384UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">: Elemen <link> ini memuat stylesheet eksternal dari       Font Awesome, yang memberikan akses ke ikon-ikon kustom yang dapat digunakan dalam halaman web.
+9.	<body>: Elemen ini merupakan area utama di mana konten halaman web ditampilkan. Semua elemen yang terlihat oleh pengguna, seperti teks, gambar, dan tautan,       ditempatkan di dalam elemen <body>.
 10.	<header>: Elemen ini digunakan untuk menyusun bagian kepala halaman, yang biasanya berisi elemen-elemen seperti logo, menu navigasi, dan judul halaman.
-
 11.	<nav>: Elemen ini digunakan untuk membuat bagian navigasi halaman web. Biasanya berisi tautan menu ke halaman-halaman terkait.
-
-12.	<section class="about-us">: Elemen ini menandai awal dari bagian "Tentang Kami" di halaman. Ini digunakan untuk mengelompokkan konten yang berkaitan dengan informasi tentang produk atau layanan yang ditawarkan.
-
+12.	<section class="about-us">: Elemen ini menandai awal dari bagian "Tentang Kami" di halaman. Ini digunakan untuk mengelompokkan konten yang berkaitan dengan       informasi tentang produk atau layanan yang ditawarkan.
 13.	<a>: Elemen ini digunakan untuk membuat tautan ke halaman lain. Pada contoh ini, digunakan untuk menghubungkan gambar ke file "Gambar 6.jpg"".
-
-14.	"<img src="Gambar 6.jpg" alt="gambar 6>": Elemen ini digunakan untuk menampilkan gambar di halaman web. Atribut src menentukan sumber gambar, sementara atribut alt memberikan teks alternatif jika gambar tidak dapat dimuat.
-
-15.	"<h1></h1>": Elemen ini digunakan untuk menampilkan judul besar yang menyoroti topik "Tentang Kami" di halaman.
-
-16.	"<p></p>": Elemen ini digunakan untuk menampilkan paragraf teks. Digunakan untuk menjelaskan informasi tentang produk "Smart Parking System."
-
+14.	"<img src="Gambar 6.jpg" alt="gambar 6>": Elemen ini digunakan untuk menampilkan gambar di halaman web. Atribut src menentukan sumber gambar, sementara           atribut alt memberikan teks alternatif jika gambar tidak dapat dimuat.
+15.	"[h1></h1]": Elemen ini digunakan untuk menampilkan judul besar yang menyoroti topik "Tentang Kami" di halaman.
+16.	"[p></p]": Elemen ini digunakan untuk menampilkan paragraf teks. Digunakan untuk menjelaskan informasi tentang produk "Smart Parking System."
 17.	"<div class="team>": Elemen ini digunakan untuk mengelompokkan konten tentang "Tim Kami" yang termasuk h1, dan elemen-elemen lainnya.
+18.	"[ul]": Elemen ini digunakan untuk membuat daftar yang berisi informasi tentang anggota tim, termasuk gambar dan teks terkait.
+19.	"[footer]": Elemen ini digunakan untuk membuat bagian bawah halaman web yang biasanya berisi informasi kontak dan tautan ke media sosial.
+20.	"[i class="fab fa-facebook-f icon"></i]": Elemen ini digunakan untuk menampilkan ikon media sosial dari Font Awesome.
+21.	"[form]": Elemen ini digunakan untuk membuat formulir yang pengguna dapat gunakan untuk berlangganan newsletter.
+22.	[<script src="script.js"></script]": Elemen ini memuat script JavaScript eksternal yang digunakan untuk meningkatkan fungsionalitas halaman web.
 
-18.	"<ul>": Elemen ini digunakan untuk membuat daftar yang berisi informasi tentang anggota tim, termasuk gambar dan teks terkait.
-
-19.	"<footer>": Elemen ini digunakan untuk membuat bagian bawah halaman web yang biasanya berisi informasi kontak dan tautan ke media sosial.
-
-20.	"<i class="fab fa-facebook-f icon"></i>": Elemen ini digunakan untuk menampilkan ikon media sosial dari Font Awesome.
-
-21.	"<form>": Elemen ini digunakan untuk membuat formulir yang pengguna dapat gunakan untuk berlangganan newsletter.
-
-22.	"<script src="script.js"></script>": Elemen ini memuat script JavaScript eksternal yang digunakan untuk meningkatkan fungsionalitas halaman web.
 
 ![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124551854/85dbf500-9968-4358-bfe1-86cf6204814c)
 Service.html
 
-1.  "<section class="services">": Ini adalah elemen HTML yang mendefinisikan sebuah bagian dari halaman web dengan kelas "services." Bagian ini tampaknya didedikasikan untuk menampilkan berbagai layanan yang ditawarkan oleh Smart Parking System.
+1. "[section class="services"]": Ini adalah elemen HTML yang mendefinisikan sebuah bagian dari halaman web dengan kelas "services." Bagian ini tampaknya didedikasikan untuk menampilkan berbagai layanan yang ditawarkan oleh Smart Parking System.
+2.  "[h1+>/*Services<///**/h1]": Ini adalah judul bagian "Services.+" Biasanya digunakan untuk memberikan judul atau pengenalan singkat tentang isi bagian tersebut.
+3. [ul]": Ini adalah elemen yang digunakan untuk membuat daftar tak terurut, yang akan berisi berbagai layanan Smart Parking System.
 
-2.  "<h1+>/*Services<///**/h1>": Ini adalah judul bagian "Services.+" Biasanya digunakan untuk memberikan judul atau pengenalan singkat tentang isi bagian tersebut.
+*Item Layanan Pertama:*
 
-3.  "<ul>": Ini adalah elemen yang digunakan untuk membuat daftar tak terurut, yang akan berisi berbagai layanan Smart Parking System.
-
-Item Layanan Pertama:
-
-4.  "<li>": Ini adalah elemen daftar dalam daftar tak terurut.
-
-5.  "<a target="_blank" href="Gambar 2.jpg*">": Ini adalah tautan ke gambar (Gambar 2.*) yang membuka gambar dalam tab atau jendela baru (target="_blank").
-   Biasanya, gambar ini digunakan untuk menggambarkan layanan tersebut.
-
-6.  "<h1+>Solusi Parkir Cerdas</*+h1>": Ini adalah judul layanan pertama, yaitu "+Solusi Parkir Cerdas."
-
-7.  "<p>"Solusi Parkir Cerdas kami/...: Ini adalah paragraf atau deskripsi singkat dari layanan "Solusi Parkir Cerdas." Ini memberikan gambaran umum tentang layanan ini.
-
-8.  "<button onclick="toggleText('text1', this)">Read More</button>: Ini adalah tombol "Read More" yang memicu suatu fungsi JavaScript ketika diklik. Tombol ini digunakan untuk memperluas deskripsi layanan saat diklik.
-
-9.  "<div id="text1" class="hidden-content">": Ini adalah div yang mengandung deskripsi lebih lanjut tentang "Solusi Parkir Cerdas." Saat tombol "Read More" diklik, konten di dalam div ini akan ditampilkan. Kelas "hidden-content" mungkin digunakan untuk awalnya menyembunyikan kontennya.
+4. "[li]": Ini adalah elemen daftar dalam daftar tak terurut.
+5. "[a target="_blank" href="Gambar 2.jpg*"]": Ini adalah tautan ke gambar (Gambar 2.*) yang membuka gambar dalam tab atau jendela baru (target="_blank").             Biasanya, gambar ini digunakan untuk menggambarkan layanan tersebut.
+6. "[h1+>Solusi Parkir Cerdas</*+h1]": Ini adalah judul layanan pertama, yaitu "+Solusi Parkir Cerdas."
+7. "[p]"Solusi Parkir Cerdas kami/...: Ini adalah paragraf atau deskripsi singkat dari layanan "Solusi Parkir Cerdas." Ini memberikan gambaran umum tentang           layanan ini.
+8. "[button onclick="toggleText('text1', this)">Read More</button]: Ini adalah tombol "Read More" yang memicu suatu fungsi JavaScript ketika diklik. Tombol ini     digunakan untuk memperluas deskripsi layanan saat diklik.
+9. "[div id="text1" class="hidden-content"]": Ini adalah div yang mengandung deskripsi lebih lanjut tentang "Solusi Parkir Cerdas." Saat tombol "Read More"         diklik, konten di dalam div ini akan ditampilkan. Kelas "hidden-content" mungkin digunakan untuk awalnya menyembunyikan kontennya.
 
 ![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124551854/d560b011-04a5-44d8-b549-19509fc5a2d5)
 
-1.)	<section class="about-us">: Ini adalah elemen HTML yang mendefinisikan sebuah bagian dari halaman web dengan kelas "about-us." Bagian ini tampaknya didedikasikan untuk memberikan informasi tentang perusahaan, khususnya mengenai bagaimana mereka menggunakan teknologi canggih dalam solusi parkir mereka.
-
-2.)	<a target="_blank" href="Gambar 6.jpg">: Ini adalah tautan ke gambar (Gambar 6.jpg) yang membuka gambar dalam tab atau jendela baru (target="_blank"). Gambar ini mungkin digunakan untuk mengilustrasikan konsep teknologi canggih yang digunakan dalam solusi parkir perusahaan.
-
-3.)	<h1>Transformasi Parkir dengan Teknologi Canggih</h1>: Ini adalah judul yang menjelaskan tentang transformasi parkir dengan teknologi canggih yang disediakan oleh perusahaan.
-
-4.)	<p>: Ini adalah paragraf atau deskripsi yang menjelaskan penggunaan teknologi canggih dalam solusi parkir perusahaan. Ini termasuk penggunaan Internet of Things (IoT), machine learning, dan webcam dalam mengoptimalkan penggunaan tempat parkir. Deskripsi ini juga menyoroti komitmen perusahaan untuk menyediakan solusi parkir inovatif yang menyederhanakan kehidupan masyarakat.
+1.  [section class="about-us"]: Ini adalah elemen HTML yang mendefinisikan sebuah bagian dari halaman web dengan kelas "about-us." Bagian ini tampaknya didedikasikan untuk memberikan informasi tentang perusahaan, khususnya mengenai bagaimana mereka menggunakan teknologi canggih dalam solusi parkir mereka.
+2.  [a target="_blank" href="Gambar 6.jpg"]: Ini adalah tautan ke gambar (Gambar 6.jpg) yang membuka gambar dalam tab atau jendela baru (target="_blank"). Gambar ini mungkin digunakan untuk mengilustrasikan konsep teknologi canggih yang digunakan dalam solusi parkir perusahaan.
+3.  [h1]Transformasi Parkir dengan Teknologi Canggih</h1>: Ini adalah judul yang menjelaskan tentang transformasi parkir dengan teknologi canggih yang disediakan oleh perusahaan.
+4.  [p]: Ini adalah paragraf atau deskripsi yang menjelaskan penggunaan teknologi canggih dalam solusi parkir perusahaan. Ini termasuk penggunaan Internet of Things (IoT), machine learning, dan webcam dalam mengoptimalkan penggunaan tempat parkir. Deskripsi ini juga menyoroti komitmen perusahaan untuk menyediakan solusi parkir inovatif yang menyederhanakan kehidupan masyarakat.
+   
 Bagian Kedua - Tim Perusahaan:
 
-1.)	<section>: Ini adalah elemen HTML yang menandakan sebuah bagian selanjutnya dari halaman web. Bagian ini tampaknya didedikasikan untuk memperkenalkan tim perusahaan.
-
-2.)	<div class="team">: Ini adalah div yang berisi informasi tentang tim perusahaan.
-
-3.)	<div class="garis-kiri"> dan <div class="garis-kanan">: Ini adalah elemen div yang digunakan untuk membuat garis horizontal di sebelah kiri dan kanan judul "Tim Kami."
-
-4.)	<h1>Tim Kami</h1>: Ini adalah judul yang menjelaskan bahwa bagian ini adalah tentang tim perusahaan.
-
-5.)	<div class="foto-team">: Ini adalah div yang berisi informasi dan gambar anggota tim perusahaan.
-
-6.)	<ul>: Ini adalah elemen yang digunakan untuk membuat daftar tak terurut yang akan berisi informasi tentang anggota tim.
-
-7.)	Setiap anggota tim direpresentasikan oleh elemen <li>. Setiap elemen <li> termasuk gambar, nama anggota tim, dan nomor identifikasi. Ini memungkinkan pengunjung untuk mengenal lebih dekat anggota tim perusahaan.
+5.  [section]: Ini adalah elemen HTML yang menandakan sebuah bagian selanjutnya dari halaman web. Bagian ini tampaknya didedikasikan untuk memperkenalkan tim perusahaan.
+6.  [div class="team"]: Ini adalah div yang berisi informasi tentang tim perusahaan.
+7.  [div class="garis-kiri"] dan <div class="garis-kanan">: Ini adalah elemen div yang digunakan untuk membuat garis horizontal di sebelah kiri dan kanan judul "Tim Kami."
+8.  [h1>Tim Kami</h1]: Ini adalah judul yang menjelaskan bahwa bagian ini adalah tentang tim perusahaan.
+9.  [div class="foto-team"]: Ini adalah div yang berisi informasi dan gambar anggota tim perusahaan.
+10. [ul]: Ini adalah elemen yang digunakan untuk membuat daftar tak terurut yang akan berisi informasi tentang anggota tim.
+11. Setiap anggota tim direpresentasikan oleh elemen [li]. Setiap elemen [li] termasuk gambar, nama anggota tim, dan nomor identifikasi. Ini memungkinkan pengunjung untuk mengenal lebih dekat anggota tim perusahaan.
 
 ![image](https://github.com/22091397087-DanarAdrianRidhoNugroho/kelompok6.github.io/assets/124551854/971ddc55-8da8-4c54-b7e3-df734c5cb63f)
 
